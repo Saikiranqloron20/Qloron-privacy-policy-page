@@ -7,6 +7,8 @@ function App() {
     <div className="App">
      <PolicyPage/>
     </div>
+
+    //Hello World 
   );
 }
 
